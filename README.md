@@ -67,10 +67,7 @@ LinkGuard/
 - **Compliance**: 100% regulatory compliance tracking
 
 ## 👨💻 Developer
-**Developed by GaneshPrabu**
-- 📧 Email: ganeshprabu.bo2024@sece.ac.in
-- 📱 Phone: +91-7338703622
-- 🎓 Institution: SECE (Sri Eshwar College of Engineering)
+**Developed by Recuision Rebbel**
 
 ## 📄 License
 This project is developed for academic and demonstration purposes.
